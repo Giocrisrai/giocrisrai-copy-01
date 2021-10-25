@@ -5,7 +5,7 @@ image: images/about.jpg
 image_alt: A man taking a picture
 seo:
   title: About Me
-  description: This is the about us page
+  description: This is the about me page
   extra:
     - name: 'og:type'
       value: website
