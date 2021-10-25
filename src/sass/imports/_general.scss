@@ -17,7 +17,7 @@ body {
   color: _palette(charcoal);
   line-height: 1.66667;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: yellow;
+  -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 
   &.palette-dark {
@@ -80,7 +80,7 @@ h6 {
   }
 
   .palette-dark & {
-    color: yellow;
+    color: ye;
   }
 }
 
