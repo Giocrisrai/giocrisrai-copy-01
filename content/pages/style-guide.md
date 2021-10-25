@@ -92,7 +92,7 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
 ```
 <!-- Some example CSS code -->
 body {
-  color:red;
+  color:yellow;
 }
 ```
 
