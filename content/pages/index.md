@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Giocrisrai Godoy and I''m Master in Artificial Intelligence and Mechatronics Engineer'
     content: >-
-      Building a technologial and sustainable world, where digitla transformationgives .
+      Building a technologial and sustainable world, where digitla transformationgives us.
     actions:
       - label: Let's talk
         url: /contact
