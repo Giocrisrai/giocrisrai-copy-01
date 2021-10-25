@@ -39,4 +39,4 @@ My efforts are given in supporting companies in the development of sustainable p
 I want to generate the best result in business growth within companies.
 
 - Management of tools in the labor area: Digital transformation. Agile methods for the development of processes.
-- I I have worked with the 
+- I I have worked with the management software: Trello
