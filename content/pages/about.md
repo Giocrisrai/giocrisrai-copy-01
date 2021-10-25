@@ -32,5 +32,7 @@ seo:
 layout: page
 ---
 
-Building a technological and sustaniable world, where digital transformation gives us a leap towards better opportunities. Mechatronics, in addition to artificial intelligence, are part of the tools that allow us to manage, the development of solutions that will allow my contribution to a better world
+Building a technological and sustaniable world, where digital transformation gives us a leap towards better opportunities. Mechatronics, in addition to artificial intelligence, are part of the tools that allow us to manage, the development of solutions that will allow my contribution to a better world.
+
+
 
