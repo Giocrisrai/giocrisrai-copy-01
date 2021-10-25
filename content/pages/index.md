@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Giocrisrai Godoy and I''m Master in Artificial Intelligence and Mechatronics Engineer'
+    title: 'Hi, I''m Giocrisrai Godoy '
     content: >-
       Building a technologial and sustainable world, where digitla transformation gives us a leap to better oportunities.
     actions:
