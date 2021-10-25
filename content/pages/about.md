@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Master in 
+subtitle: Master in Artifical Intelligenc, 
 image: https://i.imgur.com/aal5Bnn.jpg
 image_alt: A man taking a picture
 seo:
