@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Giocrisrai Godoy'
     content: >-
-      Building a technologial and sustainable world, where digitla transformation gives us a leap to better oportunities.
+      Building a technologial and sustainable world, where digital transformation gives us a leap to better oportunities.
     actions:
       - label: Let's talk
         url: /contact
