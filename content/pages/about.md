@@ -36,3 +36,6 @@ Building a technological and sustaniable world, where digital transformation giv
 
 My efforts are given in supporting companies in the development of sustainable projects with the environment with initiatives of continuos improvement and optimization of production processes with the help of disruptive technological tools to achieve results of impressive acts. 
 
+I want to generate the best result in business growth within companies.
+
+
