@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 
+subtitle: Master in 
 image: https://i.imgur.com/aal5Bnn.jpg
 image_alt: A man taking a picture
 seo:
