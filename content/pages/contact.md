@@ -7,7 +7,7 @@ sections:
     content: >-
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at
-      [contact@example.com](mailto:example@example.com).
+      [contact@giocrisrai.com](mailto:example@example.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
