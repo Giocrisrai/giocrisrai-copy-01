@@ -43,3 +43,5 @@ I want to generate the best result in business growth within companies.
 - I master different technologies in data science and automation processes.
 - Daily use of the different programs of the google woorkspace suite to optimize online collaborative resources.
 - I have constant training on Platzi platforma that helps to promote different professional elements both in soft skills and professional technical training.
+
+
