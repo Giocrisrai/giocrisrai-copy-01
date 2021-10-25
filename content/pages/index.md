@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Giocrisrai Godoy and I''m a developer in artificial intelligence'
+    title: 'Hi, I''m Giocrisrai Godoy and I''m developer in artificial intelligence'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
