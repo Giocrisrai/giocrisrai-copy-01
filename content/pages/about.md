@@ -34,5 +34,5 @@ layout: page
 
 Building a technological and sustaniable world, where digital transformation gives us a leap towards better opportunities. Mechatronics, in addition to artificial intelligence, are part of the tools that allow us to manage, the development of solutions that will allow my contribution to a better world.
 
-My effofts are given in supporting companies in the development of sustainable projects with the enviroment 
+My effofts are given in supporting companies in the development of sustainable projects with the enviroment with initiatives of continuos improvement and optimization of production process 
 
