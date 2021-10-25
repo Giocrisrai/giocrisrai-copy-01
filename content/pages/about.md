@@ -40,5 +40,5 @@ I want to generate the best result in business growth within companies.
 
 - Management of tools in the labor area: Digital transformation. Agile methods for the development of processes.
 - I have worked with the management software: Trello and Notion.
-- I master different tech
+- I master different technologies in data science and automation processes.
 - Daily use of the different programs of the google woorkspace suite to optimize online collaborative resources.
