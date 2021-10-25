@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Master in Artifical Intelligenc, 
+subtitle: Master in Artifical Intelligence, Mechatronics Engineer and Student of Platzi
 image: https://i.imgur.com/aal5Bnn.jpg
 image_alt: A man taking a picture
 seo:
