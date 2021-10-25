@@ -101,7 +101,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Giocrisai Theme
+      value: Stackbit Giocrisrai Theme
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
