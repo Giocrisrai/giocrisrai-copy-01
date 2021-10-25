@@ -39,5 +39,6 @@ My efforts are given in supporting companies in the development of sustainable p
 I want to generate the best result in business growth within companies.
 
 - Management of tools in the labor area: Digital transformation. Agile methods for the development of processes.
-- I I have worked with the management software: Trello and Notion.
+- I have worked with the management software: Trello and Notion.
+- I masterde
 - Daily use of the different programs of the google woorkspace suite to optimize online collaborative resources.
