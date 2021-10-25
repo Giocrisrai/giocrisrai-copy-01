@@ -32,4 +32,4 @@ seo:
 layout: page
 ---
 
-Building a technological and sustaniable world, where digital transformation gives us a leap towards better
+Building a technological and sustaniable world, where digital transformation gives us a leap towards better opportunities. Mechatronics
