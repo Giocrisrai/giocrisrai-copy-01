@@ -83,7 +83,7 @@ sections:
         style: button
 seo:
   title: Stackbit Giocrisrai Theme
-  description: The preview of the Exto theme
+  description: The preview of the Giocrisrai theme
   extra:
     - name: 'og:type'
       value: website
