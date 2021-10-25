@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and our work.
-image: [imgur](https://i.imgur.com/aal5Bnn.jpg)
+image: https://i.imgur.com/aal5Bnn.jpg)
 image_alt: A man taking a picture
 seo:
   title: About Me
