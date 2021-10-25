@@ -2,7 +2,7 @@
     "title": "Stackbit Giocrisrai Theme",
     "path_prefix": "/",
     "color_scheme": "dark",
-    "accent_color": "orange",
+    "accent_color": "yellow",
     "header": {
         "title": "Giocrisrai",
         "has_nav": true,
