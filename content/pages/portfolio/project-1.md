@@ -4,7 +4,7 @@ subtitle: Acceleration of Geogama's Digital Transformation
 date: '2019-05-10'
 thumb_image: https://imgur.com/a/ayhPYX9
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: https://imgur.com/a/ayhPYX9
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Digital Transformation in Environmental Consulting
