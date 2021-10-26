@@ -42,7 +42,7 @@ sections:
     type: section_posts
     title: Latest from the Blog
     subtitle: An optional subtitle of the section
-    posts_number: 1
+    posts_number: 
     col_number: three
     actions:
       - label: View Blog
