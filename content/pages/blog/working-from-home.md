@@ -38,4 +38,4 @@ layout: post
 
 If we think about remote work, it was something that looked like the near future, but with the arrival of the pandemic, it allowed us to accelerate the digital transformation process that every day isleading us to a new technological revolution.
 
-From my experience it has been a pleasant and wonderful opportunity to be able to manage time, in addition to adapting the space to be able to carry out this task, since at home I hace to generate a totalle dedicaded space to carry out my professional work 
+From my experience it has been a pleasant and wonderful opportunity to be able to manage time, in addition to adapting the space to be able to carry out this task, since at home I hace to generate a totalle dedicaded space to carry out my professional work as academics. This allowed me to 
