@@ -8,7 +8,7 @@ date: '2016-08-22'
 thumb_image: images/9_thumb.jpg
 image: images/9.jpg
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: Learning remote work during my work experience
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
   extra:
     - name: 'og:type'
