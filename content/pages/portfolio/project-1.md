@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Digital Transformation in all types of industries
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: https://imgur.com/Me6eeYU.png
       relativeUrl: true
 layout: project
 ---
