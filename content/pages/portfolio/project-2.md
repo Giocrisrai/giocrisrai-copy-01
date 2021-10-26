@@ -20,7 +20,7 @@ seo:
       value: This is the project 2 description
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: https://imgur.com/mlcqqD5.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
