@@ -36,4 +36,4 @@ seo:
 layout: post
 ---
 
-If we think about remote work, it was something that looked like the near future, but with the arrival of the pandemic, it allowed us to accelerate the digital transformation process
+If we think about remote work, it was something that looked like the near future, but with the arrival of the pandemic, it allowed us to accelerate the digital transformation process that every day isleading us to a new technological revoluti
