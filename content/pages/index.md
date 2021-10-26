@@ -32,7 +32,7 @@ sections:
       - title: Process Automation
         content: >-
           Evaluation of routine task that can become autmated in order to reduce errors and gain efficiency in the development of tasks.
-      - title: Service Title
+      - title: Data anal
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
