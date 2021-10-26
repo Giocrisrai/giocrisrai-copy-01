@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 2
+      value: Experimental AI prototype for biogechemical models and hydrodynamic oceanographic centers crop for prediction of variables and environmental impact.
       keyName: property
     - name: 'og:description'
       value: This is the project 2 description
