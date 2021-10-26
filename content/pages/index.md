@@ -31,7 +31,7 @@ sections:
           Analyzing the management of the organization's processes, recommending the best actions through methodological and technological plans in order that the organization remains in a constant ware of this technological revolution.
       - title: Process Automation
         content: >-
-          Evaluation of routine task that can become autmated in order to reduce errors and gain efficiency in the development of task.
+          Evaluation of routine task that can become autmated in order to reduce errors and gain efficiency in the development of tasks.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
