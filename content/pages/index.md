@@ -34,9 +34,7 @@ sections:
           Evaluation of routine task that can become autmated in order to reduce errors and gain efficiency in the development of tasks.
       - title: Data Analysis and Artificial Intelligence
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Ability to take the information of the company to generate the analysis of the information and th.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
