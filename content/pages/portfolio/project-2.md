@@ -35,4 +35,4 @@ seo:
 layout: project
 ---
 
-This work develops the interaction of artificial intelligence algorithms with oceanographic
+This work develops the interaction of artificial intelligence algorithms with oceanographic models. For this, an experimental pilot was used to predict the time series of dif
