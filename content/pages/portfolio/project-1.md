@@ -8,7 +8,7 @@ image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Digital Transformation in Environmental Consulting
-  description: Digital Transformation in all
+  description: Digital Transformation in all types of industries
   extra:
     - name: 'og:type'
       value: website
