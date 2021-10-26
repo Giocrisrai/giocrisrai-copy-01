@@ -20,7 +20,7 @@ seo:
       value: Digital Transformation in all types of industries
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: https://imgur.com/Me6eeYU.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
