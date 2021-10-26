@@ -15,7 +15,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Learning remote work during my work experience
       keyName: property
     - name: 'og:description'
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
