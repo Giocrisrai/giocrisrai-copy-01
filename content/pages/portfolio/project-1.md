@@ -41,4 +41,4 @@ Generating the philosophy of continuous improvement and reevaluation of workflow
 
 With the arrival of the pandemic, the need to accelerate the change process and continue in the digital transformation process was generated, which led to the proposal and migration to Google Workspace services, which allowed the work online collaborative of documentary level, spreadsheets, presentations, management of information security storage units. Allowing to generate efficiency in the way of working, focusing on collaborative work online, where one works under same version of document and information for the deliverable to customrs, thus generating a better version management of all deliverables.
 
-Beingable to review the processes and filling in .
+Beingable to review the processes and filling in in.
