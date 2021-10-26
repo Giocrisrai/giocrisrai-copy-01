@@ -37,7 +37,7 @@ sections:
           Ability to take the information of the company to generate the analysis of the information and thus determine patterns that generate greater business efficiency, these tools can be used at different levels of the company for the constant optimization of products and services.
       - title: IoT, Smart Home, Mechatronics and Robotics
         content: >-
-          
+          Smart devices add value to us in our day to day, we must know how to take advantage of our work enviroments as well as to generate comfort in our house 
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
