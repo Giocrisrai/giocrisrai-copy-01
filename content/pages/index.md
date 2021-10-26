@@ -35,7 +35,7 @@ sections:
       - title: Data Analysis and Artificial Intelligence
         content: >-
           Ability to take the information of the company to generate the analysis of the information and thus determine patterns that generate greater business efficiency, these tools can be used at different levels of the company for the constant optimization of products and services.
-      - title: IoT, 
+      - title: IoT, Smart Home
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
