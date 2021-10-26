@@ -42,7 +42,7 @@ sections:
     type: section_posts
     title: Latest from the Blog
     subtitle: Contributions and reflections to the technology community.
-    posts_number: 1
+    posts_number: 2
     col_number: two
     actions:
       - label: View Blog
