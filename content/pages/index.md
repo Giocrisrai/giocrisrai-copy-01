@@ -28,7 +28,7 @@ sections:
     grid_items:
       - title: Digital Transformation
         content: >-
-          Analyzing the mana.
+          Analyzing the management of the organization's processes, recommending the .
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
