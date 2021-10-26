@@ -28,7 +28,7 @@ sections:
     grid_items:
       - title: Digital Transformation
         content: >-
-          Analyzing the management of the organization's processes, recommending the best actions through methodological and technological plans in order that the organization remains in a cons.
+          Analyzing the management of the organization's processes, recommending the best actions through methodological and technological plans in order that the organization remains in a constant ware of this technological revolution..
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
