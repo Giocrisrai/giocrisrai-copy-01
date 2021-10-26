@@ -35,3 +35,4 @@ seo:
 layout: project
 ---
 
+This work develops the interaction of artificial intelligence algorithms with oceanographic
