@@ -34,7 +34,7 @@ sections:
           Evaluation of routine task that can become autmated in order to reduce errors and gain efficiency in the development of tasks.
       - title: Data Analysis and Artificial Intelligence
         content: >-
-          Ability to take the information of the company to generate the analysis of the information and thus determine patterns that generate greater business efficiency,.
+          Ability to take the information of the company to generate the analysis of the information and thus determine patterns that generate greater business efficiency, these tools can be used at different levels of the company for .
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
