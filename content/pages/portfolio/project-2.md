@@ -2,7 +2,7 @@
 title: Experimental AI prototype for biogechemical models and hydrodynamic oceanographic centers crop for prediction of variables and environmental impact.
 subtitle: Optional Project Subtitle
 date: '2021-03-03'
-thumb_image: images/2_thumb.jpg
+thumb_image: https://imgur.com/Me6eeYU.png
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
