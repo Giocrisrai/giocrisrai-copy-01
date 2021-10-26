@@ -1,6 +1,6 @@
 ---
 title: Experimental AI prototype for biogechemical models and hydrodynamic oceanographic centers crop for prediction of variables and environmental impact.
-subtitle: Optional Project Subtitle
+subtitle: Master's Thesis in Artificial Inteligence
 date: '2021-03-03'
 thumb_image: https://i.imgur.com/dnqsrEc.png
 thumb_image_alt: An orange on a blue background
