@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Digital Transformation in Environmental Consulting firm Geogama
+      value: Digital Transformation in Environmental Consulting
       keyName: property
     - name: 'og:description'
       value: This is the project 1 description
