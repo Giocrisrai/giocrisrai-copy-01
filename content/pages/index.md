@@ -28,7 +28,7 @@ sections:
     grid_items:
       - title: Digital Transformation
         content: >-
-          Analyzing the management of the organization's processes, recommending the best actions thro.
+          Analyzing the management of the organization's processes, recommending the best actions through methodologi.
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
