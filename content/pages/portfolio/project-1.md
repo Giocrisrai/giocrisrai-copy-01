@@ -17,7 +17,7 @@ seo:
       value: Digital Transformation in Environmental Consulting
       keyName: property
     - name: 'og:description'
-      value: This is the project 1 description
+      value: Digital Transformation in all types of industries
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
