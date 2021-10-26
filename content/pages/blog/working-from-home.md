@@ -2,7 +2,7 @@
 title: Learning remote work during my work experience
 excerpt: >-
   If we think about remote work, it was something that looked like the near future, but with the arrival of the pandemic, it allowed us to accelerate the digital transformation process that every day isleading us to a new technological revolution.
-date: '201-08-22'
+date: '2021-08-22'
 thumb_image: images/9_thumb.jpg
 image: images/9.jpg
 seo:
