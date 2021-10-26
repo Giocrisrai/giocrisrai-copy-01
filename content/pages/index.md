@@ -41,7 +41,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
-    subtitle: Contributions andreflections to the technology community.
+    subtitle: Contributions and reflections to the technology community.
     posts_number: 1
     col_number: two
     actions:
