@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Advantages and Disadvantages of Working from Home
+      value: Learning remote work during my work experience
     - name: 'twitter:description'
       value: Interdum posuere lorem ipsum dolor sit amet consectetur
     - name: 'twitter:image'
