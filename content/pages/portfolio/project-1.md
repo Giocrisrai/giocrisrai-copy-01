@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Digital Transformation in Environmental Consulting
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: Digital Transformation in all types of industries
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
