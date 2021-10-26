@@ -35,7 +35,7 @@ seo:
 layout: project
 ---
 
-To carry out the digital transformation process in the consulting firm, it began with the incorporation of agile methodologies supported by the use of the Kanban philophy using the trello software, using this platform to generate the sprints through the work cells. This allowed to generate iterations in the projects 
+To carry out the digital transformation process in the consulting firm, it began with the incorporation of agile methodologies supported by the use of the Kanban philophy using the trello software, using this platform to generate the sprints through the work cells. This allowed to generate iterations in the projects with weekly goals and to be generating a more dynamic flow within the organization,
 
 >"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
