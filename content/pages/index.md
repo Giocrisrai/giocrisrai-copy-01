@@ -43,7 +43,7 @@ sections:
     title: Latest from the Blog
     subtitle: An optional subtitle of the section
     posts_number: 1
-    col_number: one
+    col_number: two
     actions:
       - label: View Blog
         url: blog
