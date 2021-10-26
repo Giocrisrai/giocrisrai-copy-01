@@ -42,4 +42,4 @@ From my experience it has been a pleasant and wonderful opportunity to be able t
 
 The spaces have changed to get the best version of one by approaching different communities to be able to use the potencial of internet and work with people that you have seen physically in your life and being able to generate excellent comunication to be able to solve day-to-day challenges.
 
-I believethat this modality came to stay and encourage collaborative co-works spaces where we approach at different times and communities to share and grow but at the same time, to be able to generate solutions from anywhere in the world for different horizons. It continues to be a challenge
+I believethat this modality came to stay and encourage collaborative co-works spaces where we approach at different times and communities to share and grow but at the same time, to be able to generate solutions from anywhere in the world for different horizons. It continues to be a challenge for man
