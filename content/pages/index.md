@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What I Do
-    subtitle: Using technology to benefit the changes that transform the new industr
+    subtitle: Using technology to benefit the changes that transform the new industry 4.0
     col_number: two
     is_numbered: true
     grid_items:
