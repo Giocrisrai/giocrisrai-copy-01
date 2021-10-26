@@ -1,5 +1,5 @@
 ---
-title: Digital Transformation 
+title: Digital Transformation in Environmental Consulting firm Geogama
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
