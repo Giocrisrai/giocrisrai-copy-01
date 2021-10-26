@@ -40,4 +40,4 @@ If we think about remote work, it was something that looked like the near future
 
 From my experience it has been a pleasant and wonderful opportunity to be able to manage time, in addition to adapting the space to be able to carry out this task, since at home I hace to generate a totalle dedicaded space to carry out my professional work as academics. This allowed me to organize and manage that space to be able to fulfill my tasks and work activities of the day to day, I cannot deny that at the beginning it was a challenge because it did not have the adequate space which generates distractions from the environment or beging in the dining room while you are doing some activity.
 
-The spaces have changed
+The spaces have changed to get the best version of one by 
