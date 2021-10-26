@@ -1,5 +1,5 @@
 ---
-title: Experimental AI prototype for biogechemical models and hydrodynamic oceanographic centers
+title: Experimental AI prototype for biogechemical models and hydrodynamic oceanographic centers crop for prediction of variables and environmental impact.
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
