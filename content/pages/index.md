@@ -29,7 +29,7 @@ sections:
       - title: Digital Transformation
         content: >-
           Analyzing the management of the organization's processes, recommending the best actions through methodological and technological plans in order that the organization remains in a constant ware of this technological revolution.
-      - title: Automation proceso
+      - title: Automation Proceso
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
